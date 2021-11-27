@@ -22,3 +22,4 @@ Ethernet | Realtek RTL8111H |
 **macOS version**: 13.6
 **OpenCore version**: 0.5.6 (Update OpenCore to run later version of macOS)
 
+![macOS image](https://github.com/HubberTubber/Hackintosh-Ryzen-7-2700x/blob/main/macOS.png)
